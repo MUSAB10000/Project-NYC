@@ -1,9 +1,10 @@
 streamlit
-pandas>
-numpy>
-plotly>
-seaborn>
-matplotlib>
-joblib>
-xgboost>
+pandas
+numpy
+plotly
+seaborn
+matplotlib
+joblib
+xgboost
+
 
