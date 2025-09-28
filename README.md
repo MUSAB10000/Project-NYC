@@ -10,6 +10,11 @@ Interactive Streamlit app to **explore**, **analyze**, and **predict** NYC Airbn
 > **Repo:** https://github.com/MUSAB10000/Project-NYC
 
 ---
+## 👤 team members
+- Rawan  Alsaffar
+- Khaled Alzahrani
+- Musab Aalbdullatif
+
 
 ## ✨ Features
 
